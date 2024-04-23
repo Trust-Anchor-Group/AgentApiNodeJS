@@ -6,7 +6,9 @@ and interoperate in the federated Neuron(R) network.
 
 [Agent API]: https://lab.tagroot.io/Documentation/Neuron/Agent.md
 
-# Note
+## TO BE IMPLEMENTED
+
+## Note
 
 There already exists a [Javascript implementation](https://github.com/Trust-Anchor-Group/AgentApiJavascript) of the API. The main difference is that this implementation is stripped the ussage of browser APIs and uses Node-fetch for requests.
 
